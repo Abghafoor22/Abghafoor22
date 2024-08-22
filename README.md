@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Ghafoor
-- 🌱 I’m currently learning MERN Stack
+- 👩🏻‍💻 I'm learning the MERN stack.
 
 
 
