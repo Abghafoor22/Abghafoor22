@@ -61,5 +61,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abghafoor22&show_icons=true&locale=en&layout=compact" alt="abghafoor22" />
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abghafoor22&" alt="abghafoor22" />
+  
 </p>
